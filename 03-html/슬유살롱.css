@@ -253,17 +253,6 @@ header .right .homepage {
     margin-right: 30px;
 }
 
-.section02 .left .box .right .day span::after {
-    content: '';
-    width: 1px;
-    height: 12px;
-    background-color: #333;
-    display: block;
-    position: absolute;
-    top: 50%;
-    right: 39%;
-    transform: translateY(-50%);
-}
 
 .section02 .right {
     width: 434px;
